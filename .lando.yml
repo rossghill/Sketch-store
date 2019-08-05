@@ -1,0 +1,4 @@
+name: commerce
+recipe: drupal7
+config:
+  webroot: .
